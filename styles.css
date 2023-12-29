@@ -46,6 +46,9 @@ footer{
     text-align:left;
     margin-block: 30px;
   }
+.link-boxes{
+    display: block;
+  }
   .top{
     width: 90vw;
     margin: auto;
